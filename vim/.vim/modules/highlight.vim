@@ -13,6 +13,3 @@ set hlsearch
 " Hightlight the current line
 set cursorline
 
-" Set colorscheme
-colorscheme desert
-
