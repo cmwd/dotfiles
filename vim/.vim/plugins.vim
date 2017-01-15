@@ -11,4 +11,5 @@ Plug 'morhetz/gruvbox'
 Plug 'neomake/neomake'
 Plug 'vim-airline/vim-airline'
 Plug 'bling/vim-bufferline'
+Plug 'Yggdroot/indentLine'
 
