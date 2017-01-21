@@ -18,15 +18,9 @@ set hidden
 let mapleader="\<Space>"
 
 nnoremap <Leader>w :w<CR>
-nnoremap <Leader>o :CtrlP<CR>
 nnoremap <Leader>q :q<CR>
-
-" Indent lines with cmd+[ and cmd+]
-nmap <C-]> >>
-nmap <C-[> <<
-vmap <C-[> <gv
-vmap <C-]> >gv
-
+nnoremap <Leader>[ :bprevious<CR>
+nnoremap <Leader>] :bnext<CR>
 
 " Wrap to the next/previous line
 set whichwrap+=<,>,h,l,[,]

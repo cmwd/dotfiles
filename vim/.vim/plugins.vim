@@ -1,7 +1,7 @@
 
 Plug 'tpope/vim-sensible'
 Plug 'scrooloose/nerdtree'
-Plug 'kien/ctrlp.vim'
+Plug 'ctrlpvim/ctrlp.vim'
 Plug 'pangloss/vim-javascript'
 Plug 'mxw/vim-jsx'
 Plug 'editorconfig/editorconfig-vim'
@@ -13,4 +13,5 @@ Plug 'vim-airline/vim-airline'
 Plug 'vim-airline/vim-airline-themes'
 Plug 'bling/vim-bufferline'
 Plug 'Yggdroot/indentLine'
+Plug 'easymotion/vim-easymotion'
 
