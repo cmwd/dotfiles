@@ -6,6 +6,11 @@ set mouse=a
 
 set title
 
+" Default indetion
+set expandtab
+set tabstop=2
+set shiftwidth=2
+
 " Switch between buffers without saving
 set hidden
 
