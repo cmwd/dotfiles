@@ -14,4 +14,5 @@ Plug 'vim-airline/vim-airline-themes'
 Plug 'bling/vim-bufferline'
 Plug 'Yggdroot/indentLine'
 Plug 'easymotion/vim-easymotion'
+Plug 'ervandew/supertab'
 
