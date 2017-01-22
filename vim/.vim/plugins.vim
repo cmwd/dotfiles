@@ -15,4 +15,5 @@ Plug 'bling/vim-bufferline'
 Plug 'Yggdroot/indentLine'
 Plug 'easymotion/vim-easymotion'
 Plug 'ervandew/supertab'
+Plug 'scrooloose/nerdcommenter'
 
