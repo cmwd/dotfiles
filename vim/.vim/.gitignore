@@ -7,4 +7,5 @@ autoload/plug.vim.old
 revert.sh
 .DS_Store
 swp_files/*
+init.vim
 
