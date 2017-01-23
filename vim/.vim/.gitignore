@@ -5,6 +5,6 @@ plugged/
 autoload/plug.vim
 autoload/plug.vim.old
 revert.sh
-*.swp
 .DS_Store
+swp_files/*
 

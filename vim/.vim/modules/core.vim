@@ -11,6 +11,10 @@ set expandtab
 set tabstop=2
 set shiftwidth=2
 
+" Swap files
+set swapfile
+set dir=~/.vim/swp_files
+
 " Switch between buffers without saving
 set hidden
 
