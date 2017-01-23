@@ -25,6 +25,7 @@ nnoremap <Leader>w :w<CR>
 nnoremap <Leader>q :q<CR>
 nnoremap <Leader>[ :bprevious<CR>
 nnoremap <Leader>] :bnext<CR>
+nnoremap <silent> <C-l> :nohl<CR><C-l>
 
 " Wrap to the next/previous line
 set whichwrap+=<,>,h,l,[,]

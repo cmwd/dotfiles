@@ -1,0 +1,8 @@
+--color
+
+--ignore-dir=.idea/
+--ignore-dir=node_modules/
+
+--type-add=css=scss
+--ignore-dir=node_modules
+--type-set=json=.json
