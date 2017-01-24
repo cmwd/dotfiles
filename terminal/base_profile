@@ -1,3 +1,4 @@
 export EDITOR=nvim
 
 source ~/dotfiles/terminal/colors
+alias vim=nvim

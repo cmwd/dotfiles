@@ -1,1 +1,0 @@
-/Users/piotr/dotfiles/vim/.vim
