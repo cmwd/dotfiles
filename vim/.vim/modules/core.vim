@@ -6,6 +6,10 @@ set mouse=a
 
 set title
 
+" Searching
+set ignorecase
+set smartcase
+
 " Default indetion
 set expandtab
 set tabstop=2
