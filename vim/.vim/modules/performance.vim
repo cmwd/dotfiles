@@ -3,4 +3,4 @@
 set ttyfast
 
 " Stops macros rendering every step.
-" set lazyredraw
+set lazyredraw
