@@ -19,4 +19,5 @@ Plug 'scrooloose/nerdcommenter'
 "Plug 'ryanoasis/vim-devicons'
 Plug 'Raimondi/delimitMate'
 Plug 'mileszs/ack.vim'
+Plug 'ekalinin/Dockerfile.vim'
 

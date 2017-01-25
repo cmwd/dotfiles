@@ -1,1 +1,0 @@
-/Users/pwojtkowiak/dotfiles/vim/.vimrc
