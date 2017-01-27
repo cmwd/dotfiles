@@ -21,4 +21,5 @@ Plug 'Raimondi/delimitMate'
 Plug 'mileszs/ack.vim'
 Plug 'ekalinin/Dockerfile.vim'
 Plug 'tpope/vim-fugitive'
+Plug 'ronakg/quickr-preview.vim'
 
