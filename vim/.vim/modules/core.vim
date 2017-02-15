@@ -3,9 +3,11 @@ set number
 set relativenumber
 set list
 set mouse=a
+set autoread
 
 set title
 set shortmess+=A
+set clipboard=unnamed
 
 " Searching
 set ignorecase
