@@ -5,6 +5,7 @@ set list
 set mouse=a
 
 set title
+set shortmess+=A
 
 " Searching
 set ignorecase
