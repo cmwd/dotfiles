@@ -25,4 +25,5 @@ Plug 'tpope/vim-fugitive'
 Plug 'ronakg/quickr-preview.vim'
 Plug 'vim-scripts/surround.vim'
 Plug 'luochen1990/rainbow'
+Plug 'tiagofumo/vim-nerdtree-syntax-highlight'
 
