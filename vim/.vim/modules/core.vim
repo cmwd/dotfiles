@@ -30,8 +30,6 @@ let mapleader="\<Space>"
 
 nnoremap <Leader>w :w<CR>
 nnoremap <Leader>q :close<CR>
-nnoremap <Leader>[ :bprevious<CR>
-nnoremap <Leader>] :bnext<CR>
 nnoremap <silent> <C-l> :nohl<CR><C-l>
 
 " Wrap to the next/previous line

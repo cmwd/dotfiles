@@ -26,4 +26,6 @@ Plug 'ronakg/quickr-preview.vim'
 Plug 'tpope/vim-surround'
 Plug 'tiagofumo/vim-nerdtree-syntax-highlight'
 Plug 'ryanoasis/vim-devicons'
+Plug 'tpope/vim-unimpaired'
+
 
