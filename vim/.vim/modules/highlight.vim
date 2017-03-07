@@ -13,3 +13,15 @@ set hlsearch
 " Hightlight the current line
 set cursorline
 
+augroup Highlights
+    autocmd!
+
+    "Highlight trailing whitespace
+    autocmd WinEnter,VimEnter * :silent! call matchadd('ExtraWhitespace', '\s\+$', -1)
+
+    "Highlight occurrences of the word under the cursor
+    autocmd CursorMoved * exe printf('match IncSearch /\V\<%s\>/', escape(expand('<cword>'), '/\'))
+
+    "Highlight TODO and FIXME
+    autocmd WinEnter,VimEnter * :silent! call matchadd('Todo', 'TODO\|FIXME', -1)
+augroup END

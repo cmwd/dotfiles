@@ -1,6 +1,7 @@
 
 Plug 'tpope/vim-sensible'
 Plug 'scrooloose/nerdtree'
+Plug 'jistr/vim-nerdtree-tabs'
 Plug 'ctrlpvim/ctrlp.vim'
 Plug 'pangloss/vim-javascript'
 Plug 'mxw/vim-jsx'
@@ -22,4 +23,6 @@ Plug 'rking/ag.vim'
 Plug 'ekalinin/Dockerfile.vim'
 Plug 'tpope/vim-fugitive'
 Plug 'ronakg/quickr-preview.vim'
+Plug 'vim-scripts/surround.vim'
+Plug 'luochen1990/rainbow'
 
