@@ -22,4 +22,4 @@ Plug 'rking/ag.vim'
 Plug 'ekalinin/Dockerfile.vim'
 Plug 'tpope/vim-fugitive'
 Plug 'ronakg/quickr-preview.vim'
-
+Plug 'tpope/vim-surround'
