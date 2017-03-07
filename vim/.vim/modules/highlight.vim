@@ -13,3 +13,12 @@ set hlsearch
 " Hightlight the current line
 set cursorline
 
+augroup Highlights
+    autocmd!
+
+    "Highlight trailing whitespace
+    autocmd WinEnter,VimEnter * :silent! call matchadd('ExtraWhitespace', '\s\+$', -1)
+
+    "Highlight TODO and FIXME
+    autocmd WinEnter,VimEnter * :silent! call matchadd('Todo', 'TODO\|FIXME', -1)
+augroup END
