@@ -17,3 +17,6 @@ else
     https://github.com/chriskempson/base16-shell.git "$BASE16_SHELL_DIR"
 fi
 
+# Fonts
+brew cask install font-hack-nerd-font
+
