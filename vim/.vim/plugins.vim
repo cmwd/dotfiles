@@ -1,10 +1,9 @@
 
 if !has('nvim')
   Plug 'tpope/vim-sensible'
-else
-  Plug 'neomake/neomake'
 endif
 
+Plug 'neomake/neomake'
 Plug 'scrooloose/nerdtree'
 Plug 'jistr/vim-nerdtree-tabs'
 Plug 'ctrlpvim/ctrlp.vim'
