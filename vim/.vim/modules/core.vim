@@ -37,4 +37,4 @@ set whichwrap+=<,>,h,l,[,]
 
 " Ignore files in search
 set wildignore+=**/node_modules/**,.tmp,.swp,.cache
-
+autocmd FileType javascript.jsx,javascript setlocal formatprg=prettier\ --stdin

@@ -1,8 +1,10 @@
 set background=dark
-let g:airline_theme='simple'
+let g:airline_theme='hybrid'
 
-if filereadable(expand("~/.vimrc_background"))
-  let base16colorspace=256
-  source ~/.vimrc_background
+syntax enable
+let g:hybrid_custom_term_colors = 1
+colorscheme hybrid
+
+if has("gui_macvim")
+  set guifont=Inconsolata\ for\ Powerline\ Nerd\ Font\ Complete:h13
 endif
-

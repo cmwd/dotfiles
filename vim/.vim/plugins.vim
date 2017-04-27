@@ -1,9 +1,6 @@
 
-if !has('nvim')
-  Plug 'tpope/vim-sensible'
-endif
-
-Plug 'neomake/neomake'
+Plug 'tpope/vim-sensible'
+Plug 'w0rp/ale'
 Plug 'scrooloose/nerdtree'
 Plug 'jistr/vim-nerdtree-tabs'
 Plug 'ctrlpvim/ctrlp.vim'
@@ -18,7 +15,6 @@ Plug 'vim-airline/vim-airline-themes'
 Plug 'bling/vim-bufferline'
 Plug 'Yggdroot/indentLine'
 Plug 'easymotion/vim-easymotion'
-Plug 'ervandew/supertab'
 Plug 'scrooloose/nerdcommenter'
 Plug 'Raimondi/delimitMate'
 Plug 'rking/ag.vim'
@@ -30,4 +26,7 @@ Plug 'tiagofumo/vim-nerdtree-syntax-highlight'
 Plug 'ryanoasis/vim-devicons'
 Plug 'tpope/vim-unimpaired'
 Plug 'mbbill/undotree'
+Plug 'reasonml/vim-reason-loader'
+Plug 'SirVer/ultisnips'
+Plug 'w0ng/vim-hybrid'
 
